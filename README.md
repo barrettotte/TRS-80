@@ -36,6 +36,10 @@ Then, I will eventually pick a program to execute on the live machine and write 
 | ------------------ | --------------- |
 
 
+## Screenshots
+[![factorial](https://github.com/barrettotte/TRS-80/blob/master/screenshots/factorial.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/factorial.PNG)
+
+
 ## Sources
 * Amazing TRS-80 emulator for all "grey line" models http://48k.ca/trs80gp.html
 * Model III Emulator for Windows https://github.com/mch2112/Sharp80
