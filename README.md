@@ -44,8 +44,8 @@ Then, I will eventually pick a program to execute on the live machine and write 
 | [STACK.ASM](https://github.com/barrettotte/TRS-80/tree/master/Z80-ASSEMBLY/STACK.ASM) | Example of pushing/popping to stack |
 
 ## Screenshots (From Sharp80 Emulator)
-[![factorial](https://github.com/barrettotte/TRS-80/blob/master/screenshots/FACTORIAL.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/FACTORIAL.PNG)
-
+[![basic](https://github.com/barrettotte/TRS-80/blob/master/screenshots/BASIC.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/BASIC.PNG)
+[![z80](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)
 
 ## Sources
 * **Amazing Model III Emulator for Windows** https://github.com/mch2112/Sharp80
