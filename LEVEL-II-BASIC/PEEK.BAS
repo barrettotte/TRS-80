@@ -1,0 +1,8 @@
+10      REM EXAMPLE OF PEEKING MEMORY
+11      REM   % - INTEGER CAST
+20      INPUT A%
+30      B=VARPTR(A%)
+40      PRINT B
+50      PRINT PEEK(B)       ' LS BYTE
+55      PRINT PEEK(B+1)     ' MS BYTE
+60      END
