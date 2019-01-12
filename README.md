@@ -45,13 +45,13 @@ I currently own the following machines:
 
 
 ### Running LEVEL-II-BASIC/DEMO.BAS with my TRS-80 4P
-[![live-dos](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.jpg)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.jpg)
+[![live-dos](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.PNG)
 
 
-[![live-code](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-code.jpg)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-code.jpg)
+[![live-code](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-code.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-code.PNG)
 
 
-[![live-end](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-end.jpg)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-end.jpg)
+[![live-end](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-end.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-end.PNG)
 
 
 ### LEVEL-II BASIC - Sharp80 (TRS-80 Emulator)
