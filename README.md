@@ -1,18 +1,12 @@
 ## TRS-80
-This repository is for exploring some old computer environments.
-I will briefly learn about LEVEL-II BASIC, Z80 Assembly, and 6809 Assembly (CoCo 3).
+This repository is for exploring the TRS-80.
+I will briefly learn about LEVEL-II BASIC and Z80 Assembly.
 
 
 I currently own the following machines:
 * TRS-80 Model I (Untested)
 * TRS-80 Model III (Bad PSU and CRT)
 * TRS-80 Model 4P (Working)
-* Tandy Color Computer 3 - CoCo 3 (Untested)
-
-
-## 6809-Assembly Programs
-| **Name**           | **Description** |
-| ------------------ | --------------- |
 
 
 ## LEVEL-II BASIC Programs
@@ -60,10 +54,6 @@ I currently own the following machines:
 
 ### Z-80 Assembly - Sharp80 (TRS-80 Emulator)
 [![z80](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)
-
-
-### 6809 Assembly
-[![6809](https://github.com/barrettotte/TRS-80/blob/master/screenshots/6809.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/6809.PNG)
 
 
 ## Sources
