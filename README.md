@@ -1,15 +1,16 @@
 ## TRS-80
+
 This repository is for exploring the TRS-80.
 I will briefly learn about LEVEL-II BASIC and Z80 Assembly.
 
-
 I currently own the following machines:
-* TRS-80 Model I (Untested)
-* TRS-80 Model III (Bad PSU and CRT)
-* TRS-80 Model 4P (Working)
 
+- TRS-80 Model I (Untested)
+- TRS-80 Model III (Bad PSU and CRT)
+- TRS-80 Model 4P (Working)
 
 ## LEVEL-II BASIC Programs
+
 | **Name**           | **Description** |
 | ------------------ | --------------- |
 | [ANIM.BAS](https://github.com/barrettotte/TRS-80/tree/master/LEVEL-II-BASIC/ANIM.BAS) | Move character across screen |
@@ -25,8 +26,8 @@ I currently own the following machines:
 | [STRSEARCH.BAS](https://github.com/barrettotte/TRS-80/tree/master/LEVEL-II-BASIC/STRSEARCH.BAS) | Search screen for string |
 | [VECTOR.BAS](https://github.com/barrettotte/TRS-80/tree/master/LEVEL-II-BASIC/VECTOR.BAS) | Vector algebra basics |
 
-
 ## Z80-Assembly Programs
+
 | **Name**           | **Description** |
 | ------------------ | --------------- |
 | [LDIR.ASM](https://github.com/barrettotte/TRS-80/tree/master/Z80-ASSEMBLY/LDIR.ASM) | Example of LDIR to move a block of memory |
@@ -34,11 +35,10 @@ I currently own the following machines:
 | [SCREENFILL.ASM](https://github.com/barrettotte/TRS-80/tree/master/Z80-ASSEMBLY/SCREENFILL.ASM) | Fill 256 bytes of screen with asterisks |
 | [STACK.ASM](https://github.com/barrettotte/TRS-80/tree/master/Z80-ASSEMBLY/STACK.ASM) | Example of pushing/popping to stack |
 
-
 ## Screenshots
 
-
 ### Running LEVEL-II-BASIC/DEMO.BAS with my TRS-80 4P
+
 [![live-dos](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/live-dos.PNG)
 
 
@@ -49,17 +49,18 @@ I currently own the following machines:
 
 
 ### LEVEL-II BASIC - Sharp80 (TRS-80 Emulator)
+
 [![basic](https://github.com/barrettotte/TRS-80/blob/master/screenshots/BASIC.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/BASIC.PNG)
 
 
 ### Z-80 Assembly - Sharp80 (TRS-80 Emulator)
+
 [![z80](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)](https://github.com/barrettotte/TRS-80/blob/master/screenshots/Z80.PNG)
 
+## References
 
-## Sources
-* **Amazing Model III Emulator for Windows** https://github.com/mch2112/Sharp80
-* TRS-80 emulator for all "grey line" models http://48k.ca/trs80gp.htm
-* Radio Shack LEVEL II BASIC Reference Manual 2nd Edition (1979)
-* TRS-80 Boot Disks https://www.ebay.com/str/TRS-80-Universe
-* Amazing TRS-80 guy, Ian Mavric http://ianmav.customer.netspace.net.au/trs80/
-
+- **Amazing Model III Emulator for Windows** https://github.com/mch2112/Sharp80
+- TRS-80 emulator for all "grey line" models http://48k.ca/trs80gp.htm
+- Radio Shack LEVEL II BASIC Reference Manual 2nd Edition (1979)
+- TRS-80 Boot Disks https://www.ebay.com/str/TRS-80-Universe
+- Amazing TRS-80 guy, Ian Mavric http://ianmav.customer.netspace.net.au/trs80/
